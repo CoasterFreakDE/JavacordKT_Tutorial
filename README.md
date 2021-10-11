@@ -1,6 +1,6 @@
 ![Timeline](./.github/images/timeline.png)
 
-# JavacordKT_Tutorial ![Downloads](https://img.shields.io/github/downloads/CoasterFreakDE/JavacordKT_Tutorial/total) ![License](https://img.shields.io/github/license/CoasterFreakDE/JavacordKT_Tutorial) [![API](https://img.shields.io/badge/API-Javacord-blue)](https://github.com/Javacord/Javacord)
+# JavacordKT_Tutorial ![Downloads](https://img.shields.io/github/downloads/CoasterFreakDE/JavacordKT_Tutorial/total) ![License](https://img.shields.io/github/license/CoasterFreakDE/JavacordKT_Tutorial) [![API](https://img.shields.io/badge/API-Javacord-blue)](https://github.com/Javacord/Javacord) [![Maven Package](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/actions/workflows/maven-publish.yml/badge.svg?event=pull_request)](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/actions/workflows/maven-publish.yml)
 
 
 ## Folgen
