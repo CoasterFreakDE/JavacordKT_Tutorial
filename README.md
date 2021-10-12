@@ -6,7 +6,7 @@
 ## Folgen
 
 - [x] Folge 1: Einrichtung »  [Download Zip](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/releases/tag/Folge1) oder [Code ansehen](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/tree/Folge1)
-- [ ] Folge 2: Annotations
+- [ ] Folge 2: Annotations »  [Download Zip](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/releases/tag/Folge2) oder [Code ansehen](https://github.com/CoasterFreakDE/JavacordKT_Tutorial/tree/Folge2)
 - [ ] Folge 3: SlashCommands
 - [ ] Folge 4: Buttons
 - [ ] Folge 5: Cooldowns
